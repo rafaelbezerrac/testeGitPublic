@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 linha 10
 linha 4----------
 linha5
@@ -6,3 +7,9 @@ linha7891911
 linha8
 linha9
 linha11
+=======
+linha 1
+linha 2
+linha 3
+linha 4
+>>>>>>> 8484caa9771f43becdcf1370657488a4de44c5ae
